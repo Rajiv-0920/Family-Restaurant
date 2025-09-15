@@ -1,0 +1,69 @@
+/* Card Styling */
+.card {
+  background-color: var(--white);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.diet img {
+  width: 100%;
+  height: 100%;
+}
+
+.card-img {
+  height: 167px;
+}
+
+.card-img img {
+  object-fit: cover;
+  object-position: 50% 35%;
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+
+/* Card Tags */
+.tag {
+  padding: 2px 4px;
+  background-color: var(--oldLace);
+  font-weight: 200;
+  color: var(--outerSpace);
+}
+
+.card-content h3 {
+  color: var(--princetonOrange);
+  font-size: var(--medium);
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.card-content .description {
+  line-height: 1.3;
+  font-weight: 300;
+}
+
+.category.tag {
+  color: var(--outerSpace);
+  background-color: var(--princetonOrange40);
+}
+
+.category-price .price {
+  font-weight: bold;
+  font-size: var(--medium);
+  color: var(--princetonOrange);
+}
+
+@media (max-width: 650px) {
+  .category.tag,
+  .tag,
+  .description {
+    font-size: 0.65rem;
+  }
+  .category-price .price,
+  .card-content h3 {
+    font-size: 1rem;
+  }
+  .card {
+    padding: 7px;
+  }
+}

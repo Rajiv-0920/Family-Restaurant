@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+dist/
+dist-ssr/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Local development
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build outputs
+build/
+coverage/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# React-specific
+*.tsbuildinfo
+.eslintcache
+.prettierrc
+*.css.map
+*.js.map
+
+# MongoDB local data (if applicable)
+data/
+mongod.lock
+
+# Miscellaneous
+Thumbs.db
+*.pid
+*.seed
+*.pid.lock

@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+:root {
+  /* Colors */
+  --oldLace: #fef3e2;
+  --white: #ffffff;
+  --white40: #ffffff40;
+  --princetonOrange: #ff7d29;
+  --outerSpace: #444444;
+  --princetonOrange40: #ff7d2940;
+  --princetonOrange70: #ff7d2970;
+  --princetonOrange10: #ff7d2910;
+  --gray: #fdfbee;
+
+  /* Fonts */
+  --karla: "Karla", sans-serif;
+  --publicSans: "Public Sans", sans-serif;
+
+  /* Fonts Size */
+  --medium: 1.25rem;
+}
+
+* {
+  font-family: var(--publicSans);
+  color: var(--outerSpace);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: var(--oldLace);
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  user-select: none;
+  font-size: var(--medium);
+}
+
+.heading-2::before {
+  content: "";
+  width: 72px;
+  height: 2px;
+  background-color: var(--princetonOrange);
+  position: absolute;
+  bottom: -5px;
+}
+
+.heading-2,
+.heading-3 {
+  position: relative;
+}
+
+.heading-3::before {
+  content: "";
+  width: 66px;
+  height: 2px;
+  background-color: var(--princetonOrange);
+  position: absolute;
+  bottom: 0px;
+}
+
+/* Navbar */
+
+.khai-text {
+  color: var(--princetonOrange);
+}
+
+.logo .text {
+  /* font-size: 1.5625rem;
+  font-weight: bold;
+  line-height: 1.4; */
+}
+
+.nav-link {
+  position: relative; /* Required for absolute positioning of ::after */
+  text-decoration: none; /* Remove default underline */
+  color: var(--outerSpace); /* Adjust link color as needed */
+}
+
+.active {
+  color: var(--princetonOrange);
+}
+
+/* Pseudo-element for the sliding border */
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: -5px; /* Position below the link */
+  left: 0;
+  width: 0; /* Start with zero width */
+  height: 2px; /* Border thickness */
+  background-color: var(--princetonOrange); /* Border color */
+  transition: width 0.3s ease; /* Animate width over 0.3 seconds */
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.menu,
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+@media (max-width: 700px) {
+  .menu {
+    display: block;
+  }
+  nav {
+    display: none;
+  }
+}
+
+.show-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 130px;
+  width: 90vw;
+  padding: 20px;
+  border-radius: 10px;
+  z-index: 999;
+  background: #ffffff;
+}
+
+.show-menu::after {
+  content: "";
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 90vw;
+  height: fit-content;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: -5;
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+}
+
+.show-menu a {
+  display: block;
+}
+
+.main-title {
+  font-size: 59px;
+  font-weight: 700;
+}
+
+.overlay-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+  backdrop-filter: blur(6px);
+  z-index: 3;
+  border-radius: 0;
+}
+
+.btn {
+  background-color: var(--princetonOrange);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  gap: 10px;
+  box-shadow: #ff7d2940 0px 13px 27px -5px, #ff7d2940 0px 8px 16px -8px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+/* Form Section  */
+
+.form {
+  background-color: var(--gray);
+  border-radius: 10px;
+  border: 1px solid var(--princetonOrange);
+}
+
+.form label {
+  font-size: 15px;
+}
+
+.input-field {
+  background-color: var(--princetonOrange10);
+  border: 2px solid var(--princetonOrange70);
+  padding: 10px;
+  font-size: 1.15rem;
+  border-radius: 5px;
+  font-family: var(--publicSans);
+}
+
+/* Footer Css */
+
+footer {
+  background-color: var(--princetonOrange10);
+  border-top: 1px solid var(--princetonOrange);
+}
+
+footer .description {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+footer .heading {
+  color: var(--princetonOrange);
+}
+
+/* Ensure responsive padding and margins */
+.map-container {
+  position: relative;
+  /* padding-bottom: 56.25%; 16:9 Aspect ratio for responsive iframe */
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.map-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.primary-text,
+.heading {
+  color: #ff7d29;
+}
+
+footer a {
+  text-decoration: underline;
+  color: var(--outerSpace);
+  transition: 0.3s;
+}
+
+footer a:hover {
+  color: var(--princetonOrange);
+}

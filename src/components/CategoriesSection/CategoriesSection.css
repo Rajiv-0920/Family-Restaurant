@@ -1,0 +1,32 @@
+.carousel-container {
+  width: 100%;
+  max-width: 1200px; /* Adjust as needed */
+  margin: 0 auto;
+}
+
+.carousel-item {
+  width: 100%;
+  padding: 0 8px; /* Match px-2 in Tailwind */
+  box-sizing: border-box;
+}
+
+/* Ensure CategoryCard takes full width on mobile */
+@media (max-width: 640px) {
+  .carousel-item {
+    width: 100% !important; /* Force 1 card per view */
+  }
+}
+
+/* 2 cards on small screens */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .carousel-item {
+    width: 50% !important; /* 2 cards per view */
+  }
+}
+
+/* 3 cards on large screens */
+@media (min-width: 1024px) {
+  .carousel-item {
+    width: 33.33% !important; /* 3 cards per view */
+  }
+}

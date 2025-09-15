@@ -1,0 +1,59 @@
+.categories .category-card {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  height: 200px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+  z-index: 0;
+  border-radius: 10px;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  color: white;
+  padding: 5px;
+}
+
+.category-card h2 {
+  color: var(--white);
+  font-family: var(--publicSans);
+  font-weight: bold;
+  line-height: 1.1;
+  z-index: 2;
+}
+
+.category-card p {
+  color: var(--white);
+  font-family: var(--publicSans);
+  font-style: italic;
+  font-weight: 200;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  z-index: 2;
+}
+
+.category-card .description {
+  font-size: 1rem;
+}
+
+.visit-btn {
+  text-decoration: none;
+  color: var(--princetonOrange);
+  background-color: #ff7d2930;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+.external-link {
+  fill: var(--princetonOrange);
+  font-size: 15px;
+}

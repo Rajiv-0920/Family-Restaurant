@@ -1,0 +1,24 @@
+import { FaExternalLinkAlt } from "react-icons/fa";
+import "./CategoryCard.css";
+
+const CategoryCard = ({ category, description }) => {
+  return (
+    <div
+      style={{ backgroundImage: `url()` }}
+      className={`category-card bg-cover bg-center relative`}
+    >
+      <div className="overlay"></div>
+      <div className="content flex flex-col">
+        <h2 className="text-xl sm:text-2xl lg:text-4xl text-white">
+          {category}
+        </h2>
+        <p className="text-sm">{description}</p>
+        {/* <a href="#" className="visit-btn flex items-center gap-2">
+          Visit Items <FaExternalLinkAlt className="external-link" />
+        </a> */}
+      </div>
+    </div>
+  );
+};
+
+export default CategoryCard;
