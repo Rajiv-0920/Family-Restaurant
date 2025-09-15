@@ -1,5 +1,5 @@
 import Card from "../components/card/Card";
-import data from "../data/data.json";
+import data from "@/data/data.json";
 import HeroSection from "../components/hero/HeroSection";
 import CategoryCard from "../components/category/CategoryCard";
 // import HeroSection from "../components/HeroSection";
