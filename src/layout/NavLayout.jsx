@@ -49,10 +49,18 @@ export function NavLayout() {
               showMenu ? "show-menu gap-5" : "gap-[71px]"
             }`}
           >
-            <NavLink to={"/"} className="nav-link">
+            <NavLink
+              to={"/"}
+              className="nav-link"
+              onClick={() => setShowMenu(false)}
+            >
               Home
             </NavLink>
-            <NavLink to={"menu"} className="nav-link">
+            <NavLink
+              to={"menu"}
+              className="nav-link"
+              onClick={() => setShowMenu(false)}
+            >
               Menu
             </NavLink>
             <a href="#contact" className="nav-link">

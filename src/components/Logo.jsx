@@ -1,7 +1,8 @@
+import { Link } from "react-router-dom";
 import logo from "../assets/logo.png";
 const Logo = () => {
   return (
-    <div className="logo flex gap-5">
+    <Link to="/" className="logo flex gap-5">
       <div className="logo-img w-[36px] h-[40px] lg:w-[65px] lg:h-[72px]">
         <img src={logo} alt="" className="w-full h-full object-cover" />
       </div>
@@ -9,7 +10,7 @@ const Logo = () => {
         <span className="khai-text">Khai</span> Khai Family <br />
         Restaurant
       </span>
-    </div>
+    </Link>
   );
 };
 
