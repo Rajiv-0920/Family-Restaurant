@@ -20,6 +20,22 @@
   --medium: 1.25rem;
 }
 
+.btn {
+  background-color: var(--princetonOrange);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  gap: 10px;
+  box-shadow: #ff7d2940 0px 13px 27px -5px, #ff7d2940 0px 8px 16px -8px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
 .hero-img {
   position: relative;
   height: 360px;

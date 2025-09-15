@@ -1,5 +1,5 @@
 // import { Trans, useTranslation } from "react-i18next";
-import heroImg from "../../assets/hero-img.svg";
+import heroImg from "@/assets/hero-img.svg";
 import "./HeroSection.css";
 // import { HighlightedText } from "../HighlightedText";
 
@@ -25,7 +25,9 @@ const HeroSection = () => {
           inviting vibe, we're here to make every meal a special occasion for
           you and your family.
         </p>
-        <button className="btn mt-15 lg:mt-25">View Menu</button>
+        <button className="btn w-fit flex items-center gap-2 px-4 py-2 rounded-md transition mt-15 lg:mt-25">
+          View Menu
+        </button>
       </div>
       <div className="hero-img order-1 lg:order-2">
         <img src={heroImg} alt="" className="-z-1" />
