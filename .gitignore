@@ -51,7 +51,6 @@ coverage/
 *.js.map
 
 # MongoDB local data (if applicable)
-data/
 mongod.lock
 
 # Miscellaneous
