@@ -12,11 +12,15 @@ const Card = ({
   tags,
   image,
 }) => {
+  const url =
+    "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
+  const fullUrl = url + image;
+
   return (
     <div className="card w-full max-w-[325px] shadow-lg flex gap-2 flex-col p-2 md:p-4 rounded-lg">
       <div className="w-full">
         <img
-          src={image ? NoImageAvailable : null}
+          src={image ? fullUrl : NoImageAvailable}
           alt="Image"
           loading="lazy"
           className="w-full h-auto object-cover rounded-md"
@@ -26,7 +30,7 @@ const Card = ({
       <div className="flex justify-between items-start gap-2">
         <div className="flex gap-1 flex-wrap w-full">
           {tags.map((tag) => (
-            <span className="tag px-2 py-1 rounded">
+            <span key={tag} className="tag px-2 py-1 rounded">
               {tag.charAt(0).toUpperCase() + tag.slice(1).toLowerCase()}
             </span>
           ))}

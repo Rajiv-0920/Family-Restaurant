@@ -41,8 +41,8 @@
   filter: blur(55rem);
   border-radius: 50%;
   position: absolute;
-  top: -15%;
-  right: -35%;
+  top: -100px;
+  right: -7%;
   z-index: -99;
   opacity: 0.5;
 }
@@ -51,12 +51,15 @@
   .bg-img {
     height: 900px;
     width: 900px;
-    background-color: #ff7d2970;
-    filter: blur(55rem);
-    border-radius: 50%;
     position: absolute;
-    top: -35%;
-    right: -25%;
+    top: -300px;
+    right: -10%;
+    /* top: -35%; */
+    /* right: -25%; */
     z-index: -99;
   }
+}
+
+.no-match {
+  color: var(--princetonOrange);
 }

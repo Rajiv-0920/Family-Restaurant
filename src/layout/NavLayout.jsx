@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import menu from "../assets/menu.png";
 import Logo from "../components/Logo";
 import { Link, NavLink } from "react-router-dom";
+import { FaFacebook, FaInstagram, FaWhatsapp } from "react-icons/fa";
 export function NavLayout() {
   const [showMenu, setShowMenu] = useState(false);
 
@@ -35,6 +36,55 @@ export function NavLayout() {
           className={showMenu ? `overlay-nav` : null}
           onClick={handleToggle}
         ></div>
+        <div className="flex flex-wrap gap-2 md:gap-5 justify-center md:justify-between items-center text-center py-2 rounded-md mb-2">
+          <div className="flex gap-2">
+            <p className="primary text-sm font-bold animate-pulse">
+              Home Delivery Available{" "}
+            </p>
+            <a
+              href={`https://wa.me/+918535809773?text=${encodeURIComponent(
+                "Hello Khai Khai Family Restaurant! I'd like to inquire about your services. Please reply with details."
+              )}`}
+              target="_blank"
+              className="btn px-5 rounded-xl hover:underline text-sm"
+            >
+              Contact Now
+            </a>
+          </div>
+          <div className="flex flex-col gap-2 sm:gap-3">
+            <ul className="text-sm sm:text-base space-y-1 flex gap-4">
+              <li>
+                <a
+                  href="https://www.facebook.com/share/1guETBf34R/"
+                  target="_blank"
+                  className="hover:underline text-xl"
+                >
+                  <FaFacebook className="hover:fill-[#ff7d29]" />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/khaikhai_familyrestaurant?utm_source=qr&igsh=c3pvOG12enQwMzRx"
+                  target="_blank"
+                  className="hover:underline text-xl"
+                >
+                  <FaInstagram className="hover:fill-[#ff7d29]" />
+                </a>
+              </li>
+              <li>
+                <a
+                  href={`https://wa.me/+918535809773?text=${encodeURIComponent(
+                    "Hello Khai Khai Family Restaurant! I'd like to inquire about your services. Please reply with details."
+                  )}`}
+                  target="_blank"
+                  className="hover:underline text-xl"
+                >
+                  <FaWhatsapp className="hover:fill-[#ff7d29]" />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
         <div className="h-[75px] mt-1 lg:mt-8 flex justify-between items-center">
           <Logo />
           <img

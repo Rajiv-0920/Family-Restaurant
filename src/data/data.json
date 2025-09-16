@@ -13,7 +13,7 @@
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["biryani", "mutton", "mataka", "most loved"],
-    "image": "images/champaran-mutton-mataka-biryani.jpg"
+    "image": "biryani.png"
   },
   {
     "itemID": 102,
@@ -29,7 +29,7 @@
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["biryani", "mutton", "most loved"],
-    "image": "images/mutton-biryani.jpg"
+    "image": ""
   },
   {
     "itemID": 103,
@@ -45,7 +45,7 @@
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["biryani", "chicken", "rice", "most loved"],
-    "image": "images/chicken-biryani.jpg"
+    "image": ""
   },
   {
     "itemID": 104,

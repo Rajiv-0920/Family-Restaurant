@@ -181,6 +181,13 @@ img {
   cursor: pointer;
   transition: 0.5s;
 }
+.btn.secondary {
+  background-color: transparent;
+  color: var(--princetonOrange);
+  box-shadow: none;
+  text-decoration: underline var(--princetonOrange);
+  text-underline-offset: 10px;
+}
 
 .btn:hover {
   opacity: 0.7;

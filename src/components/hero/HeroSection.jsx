@@ -1,10 +1,7 @@
-// import { Trans, useTranslation } from "react-i18next";
-import heroImg from "@/assets/hero-img.svg";
 import "./HeroSection.css";
-// import { HighlightedText } from "../HighlightedText";
+import { Link } from "react-router-dom";
 
 const HeroSection = () => {
-  // const { t } = useTranslation();
   return (
     <div className="hero-section grid grid-cols-1 lg:grid-cols-2 lg:order-1 lg:my-20">
       <div className="hero-content order-2">
@@ -13,10 +10,6 @@ const HeroSection = () => {
         </h2>
         <h1 className="text-7xl lg:text-8xl">
           Taste of <span className="primary">India</span>
-          {/* <Trans
-            i18nKey="header.slogan"
-            components={{ 1: <span className="primary" /> }}
-          /> */}
         </h1>
         <p className="text-base lg:text-xl font-light mt-6 leading-7 lg:leading-9">
           Step into the heart of{" "}
@@ -25,12 +18,21 @@ const HeroSection = () => {
           inviting vibe, we're here to make every meal a special occasion for
           you and your family.
         </p>
-        <button className="btn w-fit flex items-center gap-2 px-4 py-2 rounded-md transition mt-15 lg:mt-25">
+        <Link
+          to={"menu"}
+          className="btn w-fit flex items-center gap-2 px-5 md:px-8 py-2 rounded-md transition mt-15 lg:mt-25"
+        >
           View Menu
-        </button>
+        </Link>
       </div>
       <div className="hero-img order-1 lg:order-2">
-        <img src={heroImg} alt="" className="-z-1" />
+        <img
+          src={
+            "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/hero-img.svg"
+          }
+          alt=""
+          className="-z-1"
+        />
       </div>
     </div>
   );
