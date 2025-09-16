@@ -181,7 +181,9 @@ img {
   cursor: pointer;
   transition: 0.5s;
 }
+
 .btn.secondary {
+  font-size: 0.85rem;
   background-color: transparent;
   color: var(--princetonOrange);
   box-shadow: none;
