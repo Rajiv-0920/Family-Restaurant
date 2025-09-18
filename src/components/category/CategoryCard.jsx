@@ -2,10 +2,13 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 import "./CategoryCard.css";
 import { Link } from "react-router-dom";
 
-const CategoryCard = ({ category, description }) => {
+const CategoryCard = ({ category, description, image }) => {
+  const url = "/images/";
+  // "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
+  const fullUrl = url + "img.jpeg";
   return (
     <div
-      style={{ backgroundImage: `url()` }}
+      style={{ backgroundImage: `url(${fullUrl})` }}
       className={`category-card bg-cover bg-center relative`}
     >
       <div className="overlay"></div>

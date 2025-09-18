@@ -5,6 +5,7 @@ export const groupByCategory = (array) => {
     if (!result[categoryName]) {
       result[categoryName] = {
         description: item.category.description, // Store category description
+        image: item.category.image,
         items: [],
       };
     }

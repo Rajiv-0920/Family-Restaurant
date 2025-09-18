@@ -68,7 +68,11 @@ const FooterLayout = () => {
           </h3>
           <ul className="text-sm sm:text-base space-y-1">
             <li className="flex gap-2 items-center">
-              <MdEmail /> Email: info@biryanibonanza.com
+              <MdEmail className="email-contact-icon" />
+              Email:
+              <a href="mailto:khai24310@gmail.com" className="email-contact">
+                khai24310@gmail.com
+              </a>
             </li>
             <li className="flex gap-2 items-center">
               <IoCall /> Phone: <a href="tel:+918535809773">+91 853 580 9773</a>
@@ -89,7 +93,7 @@ const FooterLayout = () => {
           </ul>
           <div className="map-container mt-2 sm:mt-4 mb-5">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d116891.62582615146!2d86.87411692713913!3d23.716574962463472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1skhai%20khai%20restaurant!5e0!3m2!1sen!2sin!4v1757781619941!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d154637.96674655986!2d86.72190639726558!3d23.716501800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6e1b0bd3787d5%3A0xc07e5468c71461d8!2sKhai-Khai%20Family%20restaurant!5e1!3m2!1sen!2sin!4v1758115982694!5m2!1sen!2sin"
               style={{ border: "2px solid #ff7d2940", borderRadius: "10px" }}
               allowFullScreen=""
               loading="lazy"

@@ -1,6 +1,6 @@
 import nonVegImg from "../../assets/non-veg.svg";
 import vegImg from "../../assets/veg.svg";
-import NoImageAvailable from "../../assets/NoImageAvailable.png";
+import NoImageAvailable from "../../assets/NoImageAvailable.svg";
 import "./card.css";
 
 const Card = ({
@@ -12,8 +12,8 @@ const Card = ({
   tags,
   image,
 }) => {
-  const url =
-    "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
+  const url = "/images/";
+  // "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
   const fullUrl = url + image;
 
   return (
@@ -54,7 +54,9 @@ const Card = ({
         <span className="category tag text-[0.8rem] rounded-sm">
           {category.name}
         </span>
-        <span className="price text-base font-medium">₹{price}</span>
+        <span className="price text-base font-medium">
+          {price ? `₹${price}` : null}
+        </span>
       </div>
     </div>
   );

@@ -5,15 +5,16 @@
     "category": {
       "id": "biryanibonanza",
       "name": "Biryani Bonanza",
-      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety."
+      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety.",
+      "image": "biryani-bonanza.webp"
     },
     "subcategory": "Mutton",
     "special": "yes",
-    "item_description": "Tender mutton simmered with basmati rice and rich spices.",
+    "item_description": "Aromatic basmati rice layered with mutton and fragrant spices for a hearty meal.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["biryani", "mutton", "mataka", "most loved"],
-    "image": "biryani.png"
+    "image": "champaran-mutton-mataka-biryani.webp"
   },
   {
     "itemID": 102,
@@ -21,15 +22,16 @@
     "category": {
       "id": "biryanibonanza",
       "name": "Biryani Bonanza",
-      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety."
+      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety.",
+      "image": "biryani-bonanza.webp"
     },
     "subcategory": "Mutton",
     "special": "yes",
-    "item_description": "Tender mutton simmered with basmati rice and rich spices.",
+    "item_description": "Aromatic basmati rice layered with mutton and fragrant spices for a hearty meal.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["biryani", "mutton", "most loved"],
-    "image": ""
+    "image": "mutton-biryani.webp"
   },
   {
     "itemID": 103,
@@ -37,15 +39,16 @@
     "category": {
       "id": "biryanibonanza",
       "name": "Biryani Bonanza",
-      "description": "Aromatic basmati rice cooked with succulent chicken pieces and a blend of traditional spices."
+      "description": "Aromatic basmati rice cooked with succulent chicken pieces and a blend of traditional spices.",
+      "image": "biryani-bonanza.webp"
     },
     "subcategory": "Chicken",
     "special": "yes",
-    "item_description": "Juicy chicken cooked with fragrant rice and bold flavors.",
+    "item_description": "Aromatic basmati rice layered with chicken and fragrant spices for a hearty meal.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["biryani", "chicken", "rice", "most loved"],
-    "image": ""
+    "image": "chicken-biryani.webp"
   },
   {
     "itemID": 104,
@@ -53,15 +56,16 @@
     "category": {
       "id": "biryanibonanza",
       "name": "Biryani Bonanza",
-      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety."
+      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety.",
+      "image": "biryani-bonanza.webp"
     },
     "subcategory": "Vegetarian",
     "special": "yes",
-    "item_description": "Aromatic rice cooked with fresh vegetables and spices.",
+    "item_description": "Aromatic basmati rice layered with vegetarian and fragrant spices for a hearty meal.",
     "price": 180.0,
     "dietaryInfo": "Veg",
     "tags": ["biryani", "mushroom", "most loved"],
-    "image": "images/mushroom-biryani.jpg"
+    "image": "mushroom-biryani.webp"
   },
   {
     "itemID": 105,
@@ -69,15 +73,16 @@
     "category": {
       "id": "biryanibonanza",
       "name": "Biryani Bonanza",
-      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety."
+      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety.",
+      "image": "biryani-bonanza.webp"
     },
     "subcategory": "Vegetarian",
     "special": "yes",
-    "item_description": "Aromatic rice cooked with fresh vegetables and spices.",
+    "item_description": "Aromatic basmati rice layered with vegetarian and fragrant spices for a hearty meal.",
     "price": 160.0,
     "dietaryInfo": "Veg",
     "tags": ["biryani", "veg", "most loved"],
-    "image": "images/veg-biryani.jpg"
+    "image": "veg-biryani.webp"
   },
   {
     "itemID": 106,
@@ -85,15 +90,16 @@
     "category": {
       "id": "biryanibonanza",
       "name": "Biryani Bonanza",
-      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety."
+      "description": "Savor our aromatic, flavorful biryanis, a customer favorite for their rich taste and variety.",
+      "image": "biryani-bonanza.webp"
     },
     "subcategory": "Vegetarian",
     "special": "yes",
-    "item_description": "Fluffy rice layered with spiced eggs for a hearty delight.",
+    "item_description": "Aromatic basmati rice layered with vegetarian and fragrant spices for a hearty meal.",
     "price": 140.0,
     "dietaryInfo": "Veg",
     "tags": ["biryani", "egg", "most loved"],
-    "image": "images/egg-biryani.jpg"
+    "image": "egg-biryani.webp"
   },
   {
     "itemID": 107,
@@ -101,15 +107,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 500.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "curry", "popular choice"],
-    "image": "images/chicken-reshmi-butter-masala-leg.jpg"
+    "image": "chicken-reshmi-butter-masala-leg-4-pc.webp"
   },
   {
     "itemID": 108,
@@ -117,15 +124,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 500.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "curry", "popular choice"],
-    "image": "images/dehati-chicken.jpg"
+    "image": "dehati-chicken-10-pc.webp"
   },
   {
     "itemID": 109,
@@ -133,15 +141,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "yes",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 380.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "special", "popular choice"],
-    "image": "images/khai-khai-special-chicken.jpg"
+    "image": "khai-khai-special-chicken.webp"
   },
   {
     "itemID": 110,
@@ -149,15 +158,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Char-grilled chicken marinated in spices, smoky and flavorful.",
     "price": 370.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "tandoori", "masala", "popular choice"],
-    "image": "images/punjabi-chicken-tandoori-butter-masala.jpg"
+    "image": "chicken-punjabi.webp"
   },
   {
     "itemID": 111,
@@ -165,15 +175,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 370.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "curry", "popular choice"],
-    "image": "images/patiala-chicken.jpg"
+    "image": "patiala-chicken-6-pc.webp"
   },
   {
     "itemID": 112,
@@ -181,15 +192,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 350.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "kasa", "popular choice"],
-    "image": "images/chicken-kasa.jpg"
+    "image": "chicken-kassa-6-pc.webp"
   },
   {
     "itemID": 113,
@@ -197,15 +209,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 330.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "handi", "popular choice"],
-    "image": "images/chicken-handi.jpg"
+    "image": "chicken-handi-6-pc.webp"
   },
   {
     "itemID": 114,
@@ -213,15 +226,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 320.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "karai", "popular choice"],
-    "image": "images/chicken-karai.jpg"
+    "image": "chicken-karai-6-pc.webp"
   },
   {
     "itemID": 115,
@@ -229,15 +243,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 320.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "do-piyaza", "popular choice"],
-    "image": "images/chicken-do-piyaza.jpg"
+    "image": "chicken-do-piyaza-6-pc.webp"
   },
   {
     "itemID": 116,
@@ -245,15 +260,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "tikka", "butter-masala", "popular choice"],
-    "image": "images/chicken-tikka-butter-masala.jpg"
+    "image": "chicken-tikka-butter-masala-6-pc.webp"
   },
   {
     "itemID": 117,
@@ -261,15 +277,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "rezala", "popular choice"],
-    "image": "images/chicken-rezala.jpg"
+    "image": "chicken-rezala-6-pc.webp"
   },
   {
     "itemID": 118,
@@ -277,15 +294,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "hariyali", "popular choice"],
-    "image": "images/chicken-hariyali.jpg"
+    "image": "chicken-hariyali-6-pc.webp"
   },
   {
     "itemID": 119,
@@ -293,15 +311,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "lababdar", "popular choice"],
-    "image": "images/chicken-lababdar.jpg"
+    "image": "chicken-lababdar-4-pc.webp"
   },
   {
     "itemID": 120,
@@ -309,15 +328,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "masala", "popular choice"],
-    "image": "images/chicken-money-masala.jpg"
+    "image": "chicken-money-masala-6-pc.webp"
   },
   {
     "itemID": 121,
@@ -325,15 +345,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "dhaniya", "popular choice"],
-    "image": "images/chicken-dhaniya.jpg"
+    "image": "chicken-dhaniya-6-pc.webp"
   },
   {
     "itemID": 122,
@@ -341,15 +362,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "dakbangla", "popular choice"],
-    "image": "images/chicken-dakbangla.jpg"
+    "image": "chicken-dakbangla-2-pc.webp"
   },
   {
     "itemID": 123,
@@ -357,15 +379,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "chap", "popular choice"],
-    "image": "images/chicken-chap.jpg"
+    "image": "chicken-chap-2-pc.webp"
   },
   {
     "itemID": 124,
@@ -373,15 +396,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "achari", "popular choice"],
-    "image": "images/chicken-achari.jpg"
+    "image": "chicken-achari-6-pc.webp"
   },
   {
     "itemID": 125,
@@ -389,15 +413,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "chupsi", "popular choice"],
-    "image": "images/chicken-americn-chupsi.jpg"
+    "image": "chicken-americn-chupsi.webp"
   },
   {
     "itemID": 126,
@@ -405,15 +430,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "bhatra", "popular choice"],
-    "image": "images/chicken-bhatra.jpg"
+    "image": "chicken-bharta.webp"
   },
   {
     "itemID": 127,
@@ -421,15 +447,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 200.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "chupsi", "popular choice"],
-    "image": "images/chicken-chupsi.jpg"
+    "image": "chicken-chopsi.webp"
   },
   {
     "itemID": 128,
@@ -437,15 +464,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Chicken",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 200.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "makhana", "popular choice"],
-    "image": "images/chicken-makhana.jpg"
+    "image": "chicken-makhana-1-pc.webp"
   },
   {
     "itemID": 129,
@@ -453,15 +481,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Mutton",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 1400.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "handi", "popular choice"],
-    "image": "images/mutton-handi-1kg.jpg"
+    "image": "champaran-mutton-handi-16-pcs-1kg.webp"
   },
   {
     "itemID": 130,
@@ -469,15 +498,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Mutton",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 420.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "champaran", "popular choice"],
-    "image": "images/champaran-mutton.jpg"
+    "image": "champaran-mutton-handi-4-pcs.webp"
   },
   {
     "itemID": 131,
@@ -485,15 +515,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Mutton",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 400.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "karahi", "popular choice"],
-    "image": "images/mutton-karahi.jpg"
+    "image": "mutton-karahi-4-pcs.webp"
   },
   {
     "itemID": 132,
@@ -501,15 +532,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Mutton",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 400.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "kosha", "popular choice"],
-    "image": "images/mutton-kosha.jpg"
+    "image": "mutton-kosha-4-pcs.webp"
   },
   {
     "itemID": 133,
@@ -517,15 +549,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Mutton",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 400.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "do-piyaza", "popular choice"],
-    "image": "images/mutton-do-piyaza.jpg"
+    "image": "mutton-do-piaja-4-pcs.webp"
   },
   {
     "itemID": 134,
@@ -533,15 +566,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Mutton",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 600.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "handi", "popular choice"],
-    "image": "images/champaran-mutton-handi.jpg"
+    "image": "champaran-mutton-handi-4-pcs.webp"
   },
   {
     "itemID": 135,
@@ -549,15 +583,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Fish & Prawns",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 600.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fish", "ilish", "bhapa", "popular choice"],
-    "image": "images/bhapa-ilish.jpg"
+    "image": "bhapa-llish.webp"
   },
   {
     "itemID": 136,
@@ -565,15 +600,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Fish & Prawns",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Golda Malai Curry prepared with authentic flavors.",
     "price": 320.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["prawns", "curry", "popular choice"],
-    "image": "images/golda-malai-curry.jpg"
+    "image": "golda-malai-curry.webp"
   },
   {
     "itemID": 137,
@@ -581,15 +617,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Fish & Prawns",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fish", "masala", "popular choice"],
-    "image": "images/vetki-fish-masala.jpg"
+    "image": "bhetki-fish-masala.webp"
   },
   {
     "itemID": 138,
@@ -597,15 +634,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Fish & Prawns",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["prawns", "chilli", "popular choice"],
-    "image": "images/prawn-chilli.jpg"
+    "image": "prawn-chilli.webp"
   },
   {
     "itemID": 139,
@@ -613,15 +651,16 @@
     "category": {
       "id": "non-vegdelights",
       "name": "Non-Veg Delights",
-      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors."
+      "description": "Indulge in our succulent chicken, mutton, fish, and prawn dishes, packed with bold flavors.",
+      "image": "non-veg-delights.webp"
     },
     "subcategory": "Fish & Prawns",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fish", "katla", "popular choice"],
-    "image": "images/dai-fish-katla.jpg"
+    "image": "doi-fish-katla.webp"
   },
   {
     "itemID": 140,
@@ -629,15 +668,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "yes",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 300.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "special", "wholesome"],
-    "image": "images/khai-khai-special-paneer.jpg"
+    "image": "khai-khai-special-paneer.webp"
   },
   {
     "itemID": 141,
@@ -645,15 +685,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 300.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "kaju", "curry", "wholesome"],
-    "image": "images/paneer-kaju-curry.jpg"
+    "image": "paneer-kaju-curry.webp"
   },
   {
     "itemID": 142,
@@ -661,15 +702,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 290.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "tikka", "masala", "wholesome"],
-    "image": "images/paneer-tikka-butter-masala.jpg"
+    "image": "paneer-tikka-butter-masala.webp"
   },
   {
     "itemID": 143,
@@ -677,15 +719,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 280.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "tikka", "wholesome"],
-    "image": "images/paneer-tikka.jpg"
+    "image": "paneer-tikka-masala.webp"
   },
   {
     "itemID": 144,
@@ -693,15 +736,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 280.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "sahi", "wholesome"],
-    "image": "images/sahi-paneer.jpg"
+    "image": "sahi-paneer.webp"
   },
   {
     "itemID": 145,
@@ -709,15 +753,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 280.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "pasinda", "wholesome"],
-    "image": "images/paneer-pasinda.jpg"
+    "image": "paneer-pasanda.webp"
   },
   {
     "itemID": 146,
@@ -725,15 +770,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 270.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "punjabi", "wholesome"],
-    "image": "images/paneer-punjabi.jpg"
+    "image": "paneer-punjabi.webp"
   },
   {
     "itemID": 147,
@@ -741,15 +787,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 230.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "handi", "wholesome"],
-    "image": "images/paneer-handi.jpg"
+    "image": "paneer-handi.webp"
   },
   {
     "itemID": 148,
@@ -757,15 +804,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 230.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "makhani", "wholesome"],
-    "image": "images/paneer-makhani.jpg"
+    "image": "paneer-makhani.webp"
   },
   {
     "itemID": 149,
@@ -773,15 +821,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 230.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "khadai", "wholesome"],
-    "image": "images/khadai-paneer.jpg"
+    "image": "khadai-paneer.webp"
   },
   {
     "itemID": 150,
@@ -789,15 +838,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 230.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "65", "wholesome"],
-    "image": "images/paneer-65.jpg"
+    "image": "panner-65.webp"
   },
   {
     "itemID": 151,
@@ -805,15 +855,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "do-piyaza", "wholesome"],
-    "image": "images/paneer-do-piyaza.jpg"
+    "image": "paneer-do-piyaza.webp"
   },
   {
     "itemID": 152,
@@ -821,15 +872,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "achari", "wholesome"],
-    "image": "images/paneer-achari.jpg"
+    "image": "paneer-achari.webp"
   },
   {
     "itemID": 153,
@@ -837,15 +889,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "kofta", "malai", "wholesome"],
-    "image": "images/paneer-malai-kofta.jpg"
+    "image": "paneer-malai-kofta.webp"
   },
   {
     "itemID": 154,
@@ -853,15 +906,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "bharta", "masala", "wholesome"],
-    "image": "images/paneer-bharta-masala.jpg"
+    "image": "paneer-bharta.webp"
   },
   {
     "itemID": 155,
@@ -869,15 +923,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "butter-masala", "wholesome"],
-    "image": "images/paneer-butter-masala.jpg"
+    "image": "paneer-butter-masala.webp"
   },
   {
     "itemID": 156,
@@ -885,15 +940,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "masala", "wholesome"],
-    "image": "images/paneer-masala.jpg"
+    "image": "paneer-masala.webp"
   },
   {
     "itemID": 157,
@@ -901,15 +957,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "manchurian", "wholesome"],
-    "image": "images/paneer-manchurian.jpg"
+    "image": "paneer-manchurian.webp"
   },
   {
     "itemID": 158,
@@ -917,15 +974,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "chilli", "wholesome"],
-    "image": "images/paneer-chilli.jpg"
+    "image": "paneer-chilli.webp"
   },
   {
     "itemID": 159,
@@ -933,15 +991,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "begum-bahar", "wholesome"],
-    "image": "images/paneer-begum-bahar.jpg"
+    "image": "paneer-begum-bahar.webp"
   },
   {
     "itemID": 160,
@@ -949,15 +1008,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "kofta", "wholesome"],
-    "image": "images/paneer-muskan-kofta.jpg"
+    "image": "paneer-muskan.webp"
   },
   {
     "itemID": 161,
@@ -965,15 +1025,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "kofta", "wholesome"],
-    "image": "images/paneer-nargis-kofta.jpg"
+    "image": "paneer-nargisi-kofta.webp"
   },
   {
     "itemID": 162,
@@ -981,15 +1042,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 190.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "matar", "wholesome"],
-    "image": "images/paneer-matar.jpg"
+    "image": "paneer-matar-masala.webp"
   },
   {
     "itemID": 163,
@@ -997,15 +1059,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "palak", "wholesome"],
-    "image": "images/palak-paneer.jpg"
+    "image": "palak-paneer.webp"
   },
   {
     "itemID": 164,
@@ -1013,15 +1076,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Paneer",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "kofta", "wholesome"],
-    "image": "images/paneer-anguri-kofta.jpg"
+    "image": "paneer-anguri-kofta.webp"
   },
   {
     "itemID": 165,
@@ -1029,15 +1093,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 300.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "sahisona", "wholesome"],
-    "image": "images/veg-sahisona.jpg"
+    "image": "veg-sahisona.webp"
   },
   {
     "itemID": 166,
@@ -1045,15 +1110,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Gold Malai Curry prepared with authentic flavors.",
     "price": 300.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "malai", "curry", "wholesome"],
-    "image": "images/gold-malai-curry.jpg"
+    "image": "gold-malai-curry.webp"
   },
   {
     "itemID": 167,
@@ -1061,15 +1127,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 250.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "dilruba", "wholesome"],
-    "image": "images/veg-dilruba.jpg"
+    "image": "veg-dilruba.webp"
   },
   {
     "itemID": 168,
@@ -1077,15 +1144,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 250.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "chilli", "crispy", "wholesome"],
-    "image": "images/mushroom-crispy-chilli.jpg"
+    "image": "mushroom-crispy-chilli.webp"
   },
   {
     "itemID": 169,
@@ -1093,15 +1161,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 250.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "handi", "wholesome"],
-    "image": "images/mushroom-handi.jpg"
+    "image": "mushroom-handi.webp"
   },
   {
     "itemID": 170,
@@ -1109,15 +1178,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "karahi", "wholesome"],
-    "image": "images/mushroom-karahi.jpg"
+    "image": "mushroom-karahi.webp"
   },
   {
     "itemID": 171,
@@ -1125,15 +1195,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 210.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "matar", "masala", "wholesome"],
-    "image": "images/mushroom-matar-masala.jpg"
+    "image": "mushroom-matar-masala.webp"
   },
   {
     "itemID": 172,
@@ -1141,15 +1212,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "masala", "wholesome"],
-    "image": "images/mushroom-masala.jpg"
+    "image": "mushroom-masala.webp"
   },
   {
     "itemID": 173,
@@ -1157,15 +1229,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "do-piaza", "wholesome"],
-    "image": "images/mushroom-do-piaza.jpg"
+    "image": "mushroom-do-piaza.webp"
   },
   {
     "itemID": 174,
@@ -1173,15 +1246,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "akka", "wholesome"],
-    "image": "images/veg-akka.jpg"
+    "image": "veg-akka.webp"
   },
   {
     "itemID": 175,
@@ -1189,15 +1263,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "chulbula", "wholesome"],
-    "image": "images/veg-chulbula.jpg"
+    "image": "veg-chulbula.webp"
   },
   {
     "itemID": 176,
@@ -1205,15 +1280,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 190.0,
     "dietaryInfo": "Veg",
     "tags": ["mushroom", "chilli", "wholesome"],
-    "image": "images/mushroom-chilli.jpg"
+    "image": "mushroom-chilli.webp"
   },
   {
     "itemID": 177,
@@ -1221,15 +1297,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Corn Palak prepared with authentic flavors.",
     "price": 180.0,
     "dietaryInfo": "Veg",
     "tags": ["corn", "palak", "wholesome"],
-    "image": "images/corn-palak.jpg"
+    "image": "corn-palak.webp"
   },
   {
     "itemID": 178,
@@ -1237,15 +1314,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Baby Corn Chilli prepared with authentic flavors.",
     "price": 180.0,
     "dietaryInfo": "Veg",
     "tags": ["baby-corn", "chilli", "wholesome"],
-    "image": "images/baby-corn-chilli.jpg"
+    "image": "baby-corn-chilli.webp"
   },
   {
     "itemID": 179,
@@ -1253,15 +1331,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 170.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "karai", "wholesome"],
-    "image": "images/veg-karai.jpg"
+    "image": "veg-karai.webp"
   },
   {
     "itemID": 180,
@@ -1269,15 +1348,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 160.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "manchurian", "wholesome"],
-    "image": "images/veg-manchurian.jpg"
+    "image": "veg-manchurian.webp"
   },
   {
     "itemID": 181,
@@ -1285,15 +1365,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 160.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "achari", "wholesome"],
-    "image": "images/veg-achari.jpg"
+    "image": "veg-achar.webp"
   },
   {
     "itemID": 182,
@@ -1301,15 +1382,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "mixed", "wholesome"],
-    "image": "images/mixed-veg.jpg"
+    "image": "mixed-veg.webp"
   },
   {
     "itemID": 183,
@@ -1317,15 +1399,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Methi Malai Matar prepared with authentic flavors.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["methi", "malai", "matar", "wholesome"],
-    "image": "images/methi-malai-matar.jpg"
+    "image": "methi-malai-matar.webp"
   },
   {
     "itemID": 184,
@@ -1333,15 +1416,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Benarasi Alur Dum prepared with authentic flavors.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["alu-dum", "benarasi", "wholesome"],
-    "image": "images/benarasi-alur-dum.jpg"
+    "image": "benarasi-alur-dum.webp"
   },
   {
     "itemID": 185,
@@ -1349,15 +1433,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 140.0,
     "dietaryInfo": "Veg",
     "tags": ["veg", "jhalfrezi", "wholesome"],
-    "image": "images/veg-jhalfrezi.jpg"
+    "image": "veg-jhalfrezi.webp"
   },
   {
     "itemID": 186,
@@ -1365,15 +1450,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Chilli Okra prepared with authentic flavors.",
     "price": 130.0,
     "dietaryInfo": "Veg",
     "tags": ["okra", "chilli", "wholesome"],
-    "image": "images/chilli-okra.jpg"
+    "image": "chilli-okra.webp"
   },
   {
     "itemID": 187,
@@ -1381,15 +1467,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Alu Gobi Adrakh prepared with authentic flavors.",
     "price": 130.0,
     "dietaryInfo": "Veg",
     "tags": ["alu", "gobi", "adrakh", "wholesome"],
-    "image": "images/alu-gobi-adrakh.jpg"
+    "image": "alu-gobi-adrakh.webp"
   },
   {
     "itemID": 188,
@@ -1397,15 +1484,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Alu Gobi Matar prepared with authentic flavors.",
     "price": 120.0,
     "dietaryInfo": "Veg",
     "tags": ["alu", "gobi", "matar", "wholesome"],
-    "image": "images/alu-gobi-matar.jpg"
+    "image": "alu-gobi-matar.webp"
   },
   {
     "itemID": 189,
@@ -1413,15 +1501,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Mushroom & Other Veg",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Punjabi Alur Dum prepared with authentic flavors.",
     "price": 110.0,
     "dietaryInfo": "Veg",
     "tags": ["alu-dum", "punjabi", "wholesome"],
-    "image": "images/punjabi-alur-dum.jpg"
+    "image": "punjabi-alur-dum.webp"
   },
   {
     "itemID": 190,
@@ -1429,15 +1518,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Dal",
     "special": "no",
-    "item_description": "Comforting lentil dish with rich flavors and buttery finish.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["daal", "handi", "wholesome"],
-    "image": "images/daal-handi.jpg"
+    "image": "dal-handi.webp"
   },
   {
     "itemID": 191,
@@ -1445,15 +1535,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Dal",
     "special": "no",
-    "item_description": "Comforting lentil dish with rich flavors and buttery finish.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 140.0,
     "dietaryInfo": "Veg",
     "tags": ["daal", "yellow", "fry", "wholesome"],
-    "image": "images/yellow-daal-fry.jpg"
+    "image": "yellow-dal-fry.webp"
   },
   {
     "itemID": 192,
@@ -1461,15 +1552,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Dal",
     "special": "no",
-    "item_description": "Comforting lentil dish with rich flavors and buttery finish.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 130.0,
     "dietaryInfo": "Veg",
     "tags": ["daal", "makhani", "wholesome"],
-    "image": "images/daal-makhani.jpg"
+    "image": "dal-makhani.webp"
   },
   {
     "itemID": 193,
@@ -1477,15 +1569,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Dal",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Butter Tarka prepared with authentic flavors.",
     "price": 110.0,
     "dietaryInfo": "Veg",
     "tags": ["tarka", "butter", "wholesome"],
-    "image": "images/butter-tarka.jpg"
+    "image": "butter-tarka.webp"
   },
   {
     "itemID": 194,
@@ -1493,15 +1586,16 @@
     "category": {
       "id": "vegetarianfeast",
       "name": "Vegetarian Feast",
-      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers."
+      "description": "A wide range of paneer, mushroom, and vegetable dishes for veggie lovers.",
+      "image": "vegetarian-feast.webp"
     },
     "subcategory": "Dal",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Tarka prepared with authentic flavors.",
     "price": 90.0,
     "dietaryInfo": "Veg",
     "tags": ["tarka", "wholesome"],
-    "image": "images/tarka.jpg"
+    "image": "tarka.webp"
   },
   {
     "itemID": 195,
@@ -1509,15 +1603,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Vegetarian",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Grilled and smoky delicacy marinated with flavorful spices.",
     "price": 290.0,
     "dietaryInfo": "Veg",
     "tags": ["tikka", "malai", "tandoori", "grilled"],
-    "image": "images/malai-tikka.jpg"
+    "image": "malai-tikka-4-pc.webp"
   },
   {
     "itemID": 196,
@@ -1525,15 +1620,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Vegetarian",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 260.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "pasinda", "tikka", "tandoori", "grilled"],
-    "image": "images/paneer-pasinda-tikka.jpg"
+    "image": "paneer-pasanda-tikka-6-pc.webp"
   },
   {
     "itemID": 197,
@@ -1541,15 +1637,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Vegetarian",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 250.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "tikka", "kabab", "tandoori", "grilled"],
-    "image": "images/paneer-tikka-kabab.jpg"
+    "image": "paneer-tikka-6-pc.webp"
   },
   {
     "itemID": 198,
@@ -1557,15 +1654,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Vegetarian",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 210.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "dai", "tandoori", "grilled"],
-    "image": "images/paneer-dai.jpg"
+    "image": "paneer-dahi-kabab-6-pc.webp"
   },
   {
     "itemID": 199,
@@ -1573,15 +1671,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Vegetarian",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 190.0,
     "dietaryInfo": "Veg",
     "tags": ["paneer", "papad", "tikka", "tandoori", "grilled"],
-    "image": "images/paneer-papad-paneer-tikka.jpg"
+    "image": "papad-paneer-tikka-8pc.webp"
   },
   {
     "itemID": 200,
@@ -1589,15 +1688,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Char-grilled chicken marinated in spices, smoky and flavorful.",
     "price": 550.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-tandoori-full.jpg"
+    "image": "chicken-tandoori-full.webp"
   },
   {
     "itemID": 201,
@@ -1605,15 +1705,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 450.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "prawn", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/mutton-prawn-sheak-kabab.jpg"
+    "image": "mutton-prawn-sheak-kabab-6-pc.webp"
   },
   {
     "itemID": 202,
@@ -1621,15 +1722,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Juicy mutton infused with traditional spices and herbs.",
+    "item_description": "Juicy mutton prepared with bold spices for an authentic taste.",
     "price": 399.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["mutton", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/mutton-sheak-kabab.jpg"
+    "image": "mutton-sheak-kabab-6pc.webp"
   },
   {
     "itemID": 203,
@@ -1637,15 +1739,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Smoky, char-grilled delight with aromatic spices.",
+    "item_description": "Delicious Pomphrate Tandoori prepared with authentic flavors.",
     "price": 350.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["pomphrate", "fish", "tandoori", "grilled", "smoky"],
-    "image": "images/pomphrate-tandoori.jpg"
+    "image": "pomfrettandoori-2pc.webp"
   },
   {
     "itemID": 204,
@@ -1653,15 +1756,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 300.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-karma-sheak-kabab.jpg"
+    "image": "karma-sheak-kabab-6-pc.webp"
   },
   {
     "itemID": 205,
@@ -1669,15 +1773,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Smoky, char-grilled delight with aromatic spices.",
+    "item_description": "Grilled and smoky delicacy marinated with flavorful spices.",
     "price": 270.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "kabab", "reshmi", "tandoori", "grilled", "smoky"],
-    "image": "images/reshmi-kabab.jpg"
+    "image": "reshmi-kabab-6-pc.webp"
   },
   {
     "itemID": 206,
@@ -1685,15 +1790,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 260.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "kali-mirch", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-kali-mirch-kabab.jpg"
+    "image": "chicken-kali-mirch-kabab-6-pc.webp"
   },
   {
     "itemID": 207,
@@ -1701,15 +1807,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "tikka", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-tikka.jpg"
+    "image": "chicken-tikka-6-pc.webp"
   },
   {
     "itemID": 208,
@@ -1717,15 +1824,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-sheak-kabab.jpg"
+    "image": "chicken-sheak-kabab-6-pc.webp"
   },
   {
     "itemID": 209,
@@ -1733,15 +1841,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "malai", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-malai-kabab.jpg"
+    "image": "chicken-malai-kabab-6-pc.webp"
   },
   {
     "itemID": 210,
@@ -1749,15 +1858,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "pahori", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-pahori-kabab.jpg"
+    "image": "chicken-pahadi-kabab-6-pc.webp"
   },
   {
     "itemID": 211,
@@ -1765,15 +1875,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["prawn", "tandoori", "grilled", "smoky"],
-    "image": "images/prawn-tandoor.jpg"
+    "image": "prawn-tandoor-8-pc.webp"
   },
   {
     "itemID": 212,
@@ -1781,15 +1892,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 220.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "tangri", "kabab", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-tangri-kabab.jpg"
+    "image": "chicken-tangri-kabab-2-pc.webp"
   },
   {
     "itemID": 213,
@@ -1797,15 +1909,16 @@
     "category": {
       "id": "tandooriandkababcorner",
       "name": "Tandoori & Kabab Corner",
-      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal."
+      "description": "Enjoy our tandoori and kabab specialties, perfect for a hearty meal.",
+      "image": "tandoori-kabab-corner.webp"
     },
     "subcategory": "Non-Vegetarian",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Char-grilled chicken marinated in spices, smoky and flavorful.",
     "price": 280.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chicken", "tandoori", "grilled", "smoky"],
-    "image": "images/chicken-tandoori-half.jpg"
+    "image": "chicken-tandoori-half.webp"
   },
   {
     "itemID": 214,
@@ -1813,15 +1926,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 600.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "meal"],
-    "image": "images/vapaelice-fish.jpg"
+    "image": ""
   },
   {
     "itemID": 215,
@@ -1829,15 +1943,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "masala", "meal"],
-    "image": "images/vetki-fish-masala.jpg"
+    "image": "bhetki-fish-masala.webp"
   },
   {
     "itemID": 216,
@@ -1845,15 +1960,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Dahi Katla prepared with authentic flavors.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "dahi", "meal"],
-    "image": "images/dahi-katla.jpg"
+    "image": "dahi-katla.webp"
   },
   {
     "itemID": 217,
@@ -1861,15 +1977,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 160.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "masala", "meal"],
-    "image": "images/fish-masala.jpg"
+    "image": "fish-masala.webp"
   },
   {
     "itemID": 218,
@@ -1877,15 +1994,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 140.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "kaliya", "meal"],
-    "image": "images/fish-kaliya.jpg"
+    "image": "fish-kaliya.webp"
   },
   {
     "itemID": 219,
@@ -1893,15 +2011,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 120.0,
     "dietaryInfo": "Veg",
     "tags": ["thali", "veg", "meal"],
-    "image": "images/veg-thali.jpg"
+    "image": "veg-thali.webp"
   },
   {
     "itemID": 220,
@@ -1909,15 +2028,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 120.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "curry", "meal"],
-    "image": "images/fish-curry.jpg"
+    "image": "fish-curry.webp"
   },
   {
     "itemID": 221,
@@ -1925,15 +2045,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Charapona prepared with authentic flavors.",
     "price": 120.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["thali", "fish", "charapona", "meal"],
-    "image": "images/charapona.jpg"
+    "image": "charapona-fish.webp"
   },
   {
     "itemID": 222,
@@ -1941,15 +2062,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Postobora prepared with authentic flavors.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["thali", "postobora", "meal"],
-    "image": "images/postobora.jpg"
+    "image": "posto-bora.webp"
   },
   {
     "itemID": 223,
@@ -1957,15 +2079,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Thali",
     "special": "no",
-    "item_description": "Sweet indulgence with melt-in-mouth texture.",
+    "item_description": "Delicious Gulab Jamun (2Pc) prepared with authentic flavors.",
     "price": 30.0,
     "dietaryInfo": "Veg",
     "tags": ["thali", "dessert", "meal"],
-    "image": "images/gulab-jamun.jpg"
+    "image": "gulab-jamun.webp"
   },
   {
     "itemID": 224,
@@ -1973,15 +2096,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Tiffin Fried Rice prepared with authentic flavors.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["fried-rice", "rice"],
-    "image": "images/tiffin-fried-rice.jpg"
+    "image": "tiffin-fried-rice.webp"
   },
   {
     "itemID": 225,
@@ -1989,15 +2113,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Mixed Fried Rice prepared with authentic flavors.",
     "price": 190.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fried-rice", "rice", "mixed"],
-    "image": "images/mixed-fried-rice.jpg"
+    "image": "mixed-fried-rice.webp"
   },
   {
     "itemID": 226,
@@ -2005,15 +2130,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Marwadi Fried Rice prepared with authentic flavors.",
     "price": 180.0,
     "dietaryInfo": "Veg",
     "tags": ["fried-rice", "rice", "marwadi"],
-    "image": "images/marwadi-fried-rice.jpg"
+    "image": "marwadi-fried-rice.webp"
   },
   {
     "itemID": 227,
@@ -2021,15 +2147,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Basonti Pulao prepared with authentic flavors.",
     "price": 180.0,
     "dietaryInfo": "Veg",
     "tags": ["pulao", "rice"],
-    "image": "images/basonti-pulao.jpg"
+    "image": "basonti-pulao.webp"
   },
   {
     "itemID": 228,
@@ -2037,15 +2164,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 170.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fried-rice", "rice", "chicken"],
-    "image": "images/chicken-fried-rice.jpg"
+    "image": "chicken-fried-rice.webp"
   },
   {
     "itemID": 229,
@@ -2053,15 +2181,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 160.0,
     "dietaryInfo": "Veg",
     "tags": ["pulao", "rice", "veg"],
-    "image": "images/veg-pulao.jpg"
+    "image": "veg-pulao.webp"
   },
   {
     "itemID": 230,
@@ -2069,15 +2198,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Peas Pulao prepared with authentic flavors.",
     "price": 160.0,
     "dietaryInfo": "Veg",
     "tags": ["pulao", "rice", "peas"],
-    "image": "images/peas-pulao.jpg"
+    "image": "peas-pulao.webp"
   },
   {
     "itemID": 231,
@@ -2085,15 +2215,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Mixed Szechwan Fried Rice prepared with authentic flavors.",
     "price": 160.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fried-rice", "rice", "szechwan", "mixed"],
-    "image": "images/mixed-szechwan-fried-rice.jpg"
+    "image": "mixed-szechwan-fried-rice.webp"
   },
   {
     "itemID": 232,
@@ -2101,15 +2232,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Sweet Corn Fried Rice prepared with authentic flavors.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["fried-rice", "rice", "sweet-corn"],
-    "image": "images/sweet-corn-fried-rice.jpg"
+    "image": "sweet-corn-fried-rice.webp"
   },
   {
     "itemID": 233,
@@ -2117,15 +2249,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 150.0,
     "dietaryInfo": "Veg",
     "tags": ["fried-rice", "rice", "tomato", "mushroom"],
-    "image": "images/tomato-mushroom-fried-rice.jpg"
+    "image": "tomato-mushroom-fried-rice.webp"
   },
   {
     "itemID": 234,
@@ -2133,15 +2266,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 140.0,
     "dietaryInfo": "Veg",
     "tags": ["fried-rice", "rice", "veg"],
-    "image": "images/veg-fried-rice.jpg"
+    "image": "veg-fried-rice.webp"
   },
   {
     "itemID": 235,
@@ -2149,15 +2283,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Egg Fried Rice prepared with authentic flavors.",
     "price": 140.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["fried-rice", "rice", "egg"],
-    "image": "images/egg-fried-rice.jpg"
+    "image": "egg-fried-rice.webp"
   },
   {
     "itemID": 236,
@@ -2165,15 +2300,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Jeera Rice prepared with authentic flavors.",
     "price": 120.0,
     "dietaryInfo": "Veg",
     "tags": ["rice", "jeera"],
-    "image": "images/jeera-rice.jpg"
+    "image": "jeera-rice.webp"
   },
   {
     "itemID": 237,
@@ -2181,15 +2317,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Rice & Pulao",
     "special": "no",
-    "item_description": "Fragrant rice dish flavored with herbs and spices.",
+    "item_description": "Delicious Steam Rice prepared with authentic flavors.",
     "price": 60.0,
     "dietaryInfo": "Veg",
     "tags": ["rice", "steam"],
-    "image": "images/steam-rice.jpg"
+    "image": "steam-rice.webp"
   },
   {
     "itemID": 238,
@@ -2197,15 +2334,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Cheese Kulcha prepared with authentic flavors.",
     "price": 140.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "kulcha", "cheese"],
-    "image": "images/cheese-kulcha.jpg"
+    "image": "cheese-kulcha.webp"
   },
   {
     "itemID": 239,
@@ -2213,15 +2351,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Cheese Garlic Nun prepared with authentic flavors.",
     "price": 120.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "nun", "cheese", "garlic"],
-    "image": "images/cheese-garlic-nun.jpg"
+    "image": "cheese-garlic-nun.webp"
   },
   {
     "itemID": 240,
@@ -2229,15 +2368,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Sahi Kulcha prepared with authentic flavors.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "kulcha", "sahi"],
-    "image": "images/sahi-kulcha.jpg"
+    "image": "sahi-kulcha.webp"
   },
   {
     "itemID": 241,
@@ -2245,15 +2385,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Cheese Nun prepared with authentic flavors.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "nun", "cheese"],
-    "image": "images/cheese-nun.jpg"
+    "image": "cheese-nun.webp"
   },
   {
     "itemID": 242,
@@ -2261,15 +2402,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Kashmiri Kulcha prepared with authentic flavors.",
     "price": 90.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "kulcha", "kashmiri"],
-    "image": "images/kashmiri-kulcha.jpg"
+    "image": "kashmiri-kulcha.webp"
   },
   {
     "itemID": 243,
@@ -2277,15 +2419,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 80.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "kulcha", "paneer"],
-    "image": "images/paneer-kulcha.jpg"
+    "image": "paneer-kulcha.webp"
   },
   {
     "itemID": 244,
@@ -2293,15 +2436,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Masala Kulcha prepared with authentic flavors.",
     "price": 70.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "kulcha", "masala"],
-    "image": "images/masala-kulcha.jpg"
+    "image": "masala-kulcha.webp"
   },
   {
     "itemID": 245,
@@ -2309,15 +2453,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Garlic Nun prepared with authentic flavors.",
     "price": 70.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "nun", "garlic"],
-    "image": "images/garlic-nun.jpg"
+    "image": "garlic-nun.webp"
   },
   {
     "itemID": 246,
@@ -2325,15 +2470,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Butter Nun prepared with authentic flavors.",
     "price": 60.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "nun", "butter"],
-    "image": "images/butter-nun.jpg"
+    "image": "butter-nun.webp"
   },
   {
     "itemID": 247,
@@ -2341,15 +2487,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Alu Paratha prepared with authentic flavors.",
     "price": 40.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "paratha", "alu"],
-    "image": "images/alu-paratha.jpg"
+    "image": "alu-paratha.webp"
   },
   {
     "itemID": 248,
@@ -2357,15 +2504,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Lachcha Paratha prepared with authentic flavors.",
     "price": 35.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "paratha", "lachcha"],
-    "image": "images/lachcha-paratha.jpg"
+    "image": "lachcha-paratha.webp"
   },
   {
     "itemID": 249,
@@ -2373,15 +2521,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Deshi Ghee Paratha prepared with authentic flavors.",
     "price": 30.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "paratha", "ghee"],
-    "image": "images/deshi-ghee-paratha.jpg"
+    "image": "deshi-ghee-paratha.webp"
   },
   {
     "itemID": 250,
@@ -2389,15 +2538,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Methi Paratha prepared with authentic flavors.",
     "price": 30.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "paratha", "methi"],
-    "image": "images/methi-paratha.jpg"
+    "image": "methi-paratha.webp"
   },
   {
     "itemID": 251,
@@ -2405,15 +2555,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Smoky, char-grilled delight with aromatic spices.",
+    "item_description": "Delicious Butter Tandoori Roti prepared with authentic flavors.",
     "price": 20.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "roti", "tandoori", "butter"],
-    "image": "images/butter-tandoori-roti.jpg"
+    "image": "butter-tandoori-roti.webp"
   },
   {
     "itemID": 252,
@@ -2421,15 +2572,16 @@
     "category": {
       "id": "rice,thaliandbreads",
       "name": "Rice, Thali & Breads",
-      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads."
+      "description": "Pair your dishes with our fragrant rice, hearty thalis, or freshly baked breads.",
+      "image": "rice-thali-breads.webp"
     },
     "subcategory": "Breads",
     "special": "no",
-    "item_description": "Smoky, char-grilled delight with aromatic spices.",
+    "item_description": "Delicious Tandoori Roti prepared with authentic flavors.",
     "price": 15.0,
     "dietaryInfo": "Veg",
     "tags": ["bread", "roti", "tandoori"],
-    "image": "images/tandoori-roti.jpg"
+    "image": "tandoori-roti.webp"
   },
   {
     "itemID": 253,
@@ -2437,15 +2589,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 300.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "paneer"],
-    "image": "images/paneer-sigler.jpg"
+    "image": "paneer-sigler.webp"
   },
   {
     "itemID": 254,
@@ -2453,15 +2606,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 250.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "paneer"],
-    "image": "images/paneer-rose.jpg"
+    "image": ""
   },
   {
     "itemID": 255,
@@ -2469,15 +2623,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "paneer"],
-    "image": "images/paneer-65.jpg"
+    "image": "panner-65.webp"
   },
   {
     "itemID": 256,
@@ -2485,15 +2640,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Fresh mushrooms cooked with herbs and flavorful masala.",
     "price": 220.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "mushroom"],
-    "image": "images/mushroom-65.jpg"
+    "image": "mushroom-65.webp"
   },
   {
     "itemID": 257,
@@ -2501,15 +2657,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 200.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "paneer"],
-    "image": "images/paneer-black-pepper.jpg"
+    "image": "paneer-black-pepper.webp"
   },
   {
     "itemID": 258,
@@ -2517,15 +2674,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Soft paneer cubes simmered in creamy, spiced gravy.",
+    "item_description": "Soft paneer cubes in a spiced, creamy preparation.",
     "price": 180.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "paneer"],
-    "image": "images/paneer-pakoda.jpg"
+    "image": "paneer-pakoda.webp"
   },
   {
     "itemID": 259,
@@ -2533,15 +2691,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Masala Papad prepared with authentic flavors.",
     "price": 50.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "papad"],
-    "image": "images/masala-papad.jpg"
+    "image": "masala-papad.webp"
   },
   {
     "itemID": 260,
@@ -2549,15 +2708,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Fry Papad prepared with authentic flavors.",
     "price": 20.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "papad"],
-    "image": "images/fry-papad.jpg"
+    "image": "fry-papad.webp"
   },
   {
     "itemID": 261,
@@ -2565,15 +2725,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "yes",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Special Papad prepared with authentic flavors.",
     "price": 20.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "papad", "special"],
-    "image": "images/special-papad.jpg"
+    "image": "special-papad.webp"
   },
   {
     "itemID": 262,
@@ -2581,15 +2742,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Appetizers & Snacks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Roast Papad prepared with authentic flavors.",
     "price": 15.0,
     "dietaryInfo": "Veg",
     "tags": ["snack", "appetizer", "papad"],
-    "image": "images/roast-papad.jpg"
+    "image": "roast-papad.webp"
   },
   {
     "itemID": 263,
@@ -2597,15 +2759,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 270.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "chilli", "crispy"],
-    "image": "images/chicken-crispy-chilli.jpg"
+    "image": "chicken-crispy-chilli.webp"
   },
   {
     "itemID": 264,
@@ -2613,15 +2776,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 270.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "honey"],
-    "image": "images/honey-chicken.jpg"
+    "image": "honey-chicken.webp"
   },
   {
     "itemID": 265,
@@ -2629,15 +2793,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "manchurian"],
-    "image": "images/chicken-manchurian.jpg"
+    "image": "chicken-manchurian-8-pc.webp"
   },
   {
     "itemID": 266,
@@ -2645,15 +2810,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "garlic"],
-    "image": "images/garlic-chicken.jpg"
+    "image": "garlic-chicken.webp"
   },
   {
     "itemID": 267,
@@ -2661,15 +2827,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "lemon"],
-    "image": "images/lemon-chicken.jpg"
+    "image": "lemon-chicken-8-pc.webp"
   },
   {
     "itemID": 268,
@@ -2677,15 +2844,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "fish", "chilli"],
-    "image": "images/fish-chilli.jpg"
+    "image": "fish-chilli-8-pc.webp"
   },
   {
     "itemID": 269,
@@ -2693,15 +2861,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "prawn", "chilli"],
-    "image": "images/prawn-chilli.jpg"
+    "image": "prawn-chilli.webp"
   },
   {
     "itemID": 270,
@@ -2709,15 +2878,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 250.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "fish", "manchurian"],
-    "image": "images/fish-manchurian.jpg"
+    "image": "fish-manchurian.webp"
   },
   {
     "itemID": 271,
@@ -2725,15 +2895,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 240.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken"],
-    "image": "images/chicken-rose.jpg"
+    "image": "chicken-rose-6-pc.webp"
   },
   {
     "itemID": 272,
@@ -2741,15 +2912,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 220.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "chilli"],
-    "image": "images/chicken-chilli.jpg"
+    "image": "chicken-chilli.webp"
   },
   {
     "itemID": 273,
@@ -2757,15 +2929,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 200.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "chicken", "chilli"],
-    "image": "images/chicken-chilli-with-bone.jpg"
+    "image": "chicken-chilli-with-bone.webp"
   },
   {
     "itemID": 274,
@@ -2773,15 +2946,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Fresh seafood delicately spiced and cooked to perfection.",
+    "item_description": "Delicately spiced seafood cooked to perfection.",
     "price": 200.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "fish", "garlic"],
-    "image": "images/garlic-fish.jpg"
+    "image": "garlic-fish.webp"
   },
   {
     "itemID": 275,
@@ -2789,15 +2963,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Egg Schezwan Noodles prepared with authentic flavors.",
     "price": 190.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "egg", "schezwan"],
-    "image": "images/egg-schezwan-noodles.jpg"
+    "image": "egg-schezwan-noodles.webp"
   },
   {
     "itemID": 276,
@@ -2805,15 +2980,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Mixed Hakka Noodles prepared with authentic flavors.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "hakka", "mixed"],
-    "image": "images/mixed-hakka-noodles.jpg"
+    "image": "mixed-hakka-noodles.webp"
   },
   {
     "itemID": 277,
@@ -2821,15 +2997,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "chicken", "gravy"],
-    "image": "images/chicken-gravy-noodles.jpg"
+    "image": "chicken-gravy-noodles.webp"
   },
   {
     "itemID": 278,
@@ -2837,15 +3014,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "chicken", "schezwan"],
-    "image": "images/chicken-schezwan-noodles.jpg"
+    "image": "chicken-schezwan-noodles.webp"
   },
   {
     "itemID": 279,
@@ -2853,15 +3031,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 170.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "chicken", "hakka"],
-    "image": "images/chicken-hakka-noodles.jpg"
+    "image": "chicken-hakka-noodles.webp"
   },
   {
     "itemID": 280,
@@ -2869,15 +3048,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Singapor Noodles prepared with authentic flavors.",
     "price": 140.0,
     "dietaryInfo": "Veg",
     "tags": ["chinese", "noodles", "singapor"],
-    "image": "images/singapor-noodles.jpg"
+    "image": "singapor-noodles.webp"
   },
   {
     "itemID": 281,
@@ -2885,15 +3065,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Garlic Noodles prepared with authentic flavors.",
     "price": 130.0,
     "dietaryInfo": "Veg",
     "tags": ["chinese", "noodles", "garlic"],
-    "image": "images/garlic-noodles.jpg"
+    "image": "garlic-noodles.webp"
   },
   {
     "itemID": 282,
@@ -2901,15 +3082,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Egg Hong Kong Noodles prepared with authentic flavors.",
     "price": 130.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "egg", "hong-kong"],
-    "image": "images/egg-hong-kong-noodles.jpg"
+    "image": "egg-hong-kong-noodles.webp"
   },
   {
     "itemID": 283,
@@ -2917,15 +3099,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Egg Hakka Noodles prepared with authentic flavors.",
     "price": 130.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "noodles", "egg", "hakka"],
-    "image": "images/egg-hakka-noodles.jpg"
+    "image": "egg-hakka-noodles.webp"
   },
   {
     "itemID": 284,
@@ -2933,15 +3116,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 110.0,
     "dietaryInfo": "Veg",
     "tags": ["chinese", "noodles", "veg", "hakka"],
-    "image": "images/veg-hakka-noodles.jpg"
+    "image": "veg-hakka-noodles.webp"
   },
   {
     "itemID": 285,
@@ -2949,15 +3133,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Chinese & Noodles",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 180.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["chinese", "pakora", "chicken"],
-    "image": "images/chicken-pakora.jpg"
+    "image": "chicken-pakora-8-pc.webp"
   },
   {
     "itemID": 286,
@@ -2965,15 +3150,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 140.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["soup", "chicken", "sweet-corn"],
-    "image": "images/chicken-sweet-corn-soup.jpg"
+    "image": "chicken-sweet-corn-soup.webp"
   },
   {
     "itemID": 287,
@@ -2981,15 +3167,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 130.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["soup", "chicken", "mushroom"],
-    "image": "images/chicken-mushroom-soup.jpg"
+    "image": "chicken-mushroom-soup.webp"
   },
   {
     "itemID": 288,
@@ -2997,15 +3184,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 120.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["soup", "chicken", "hot-sour"],
-    "image": "images/chicken-hot-sour-soup.jpg"
+    "image": "chicken-hot-sour-soup.webp"
   },
   {
     "itemID": 289,
@@ -3013,15 +3201,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 110.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "veg", "hotch-potch"],
-    "image": "images/veg-hotch-potch-soup.jpg"
+    "image": "veg-hotch-potch-soup.webp"
   },
   {
     "itemID": 290,
@@ -3029,15 +3218,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 110.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "veg", "sweet-corn"],
-    "image": "images/veg-sweet-corn-soup.jpg"
+    "image": "veg-sweet-corn-soup.webp"
   },
   {
     "itemID": 291,
@@ -3045,15 +3235,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "Succulent chicken slow-cooked in flavorful spices.",
+    "item_description": "Tender chicken cooked in rich gravy with traditional spices.",
     "price": 110.0,
     "dietaryInfo": "Non-Veg",
     "tags": ["soup", "chicken", "garlic"],
-    "image": "images/chicken-garlic-soup.jpg"
+    "image": "chicken-garlic-soup.webp"
   },
   {
     "itemID": 292,
@@ -3061,15 +3252,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "veg", "hot-sour"],
-    "image": "images/veg-hot-sour-soup.jpg"
+    "image": "veg-hot-sour-soup.webp"
   },
   {
     "itemID": 293,
@@ -3077,15 +3269,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "veg", "clear"],
-    "image": "images/vegetable-clear-soup.jpg"
+    "image": "vegetable-clear-soup.webp"
   },
   {
     "itemID": 294,
@@ -3093,15 +3286,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "A wholesome vegetable preparation with balanced spices.",
+    "item_description": "Wholesome vegetarian dish cooked with balanced spices.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "veg", "manchow"],
-    "image": "images/veg-manchow-soup.jpg"
+    "image": "veg-manchow-soup.webp"
   },
   {
     "itemID": 295,
@@ -3109,15 +3303,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Tomato Soup prepared with authentic flavors.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "tomato"],
-    "image": "images/tomato-soup.jpg"
+    "image": "tomato-soup.webp"
   },
   {
     "itemID": 296,
@@ -3125,15 +3320,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Soup",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Lemon Coriander Soup prepared with authentic flavors.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["soup", "lemon", "coriander"],
-    "image": "images/lemon-coriander-soup.jpg"
+    "image": "lemon-coriander-soup.webp"
   },
   {
     "itemID": 297,
@@ -3141,15 +3337,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Sweet indulgence with melt-in-mouth texture.",
+    "item_description": "Delicious Gulab Jamun (2Pc) prepared with authentic flavors.",
     "price": 30.0,
     "dietaryInfo": "Veg",
     "tags": ["dessert", "indian-sweet", "gulab-jamun"],
-    "image": "images/gulab-jamun.jpg"
+    "image": "gulab-jamun.webp"
   },
   {
     "itemID": 298,
@@ -3157,15 +3354,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Chocobar) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "chocobar"],
-    "image": "images/ice-cream-chocobar.jpg"
+    "image": ""
   },
   {
     "itemID": 299,
@@ -3173,15 +3371,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Vanilla) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "vanilla"],
-    "image": "images/ice-cream-vanilla.jpg"
+    "image": ""
   },
   {
     "itemID": 300,
@@ -3189,15 +3388,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Cornato) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "cornato"],
-    "image": "images/ice-cream-cornato.jpg"
+    "image": ""
   },
   {
     "itemID": 301,
@@ -3205,15 +3405,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Tutti Frutti) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "tutti-frutti"],
-    "image": "images/ice-cream-tutti-frutti.jpg"
+    "image": ""
   },
   {
     "itemID": 302,
@@ -3221,15 +3422,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Mango) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "mango"],
-    "image": "images/ice-cream-mango.jpg"
+    "image": ""
   },
   {
     "itemID": 303,
@@ -3237,15 +3439,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Butterscotch) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "butterscotch"],
-    "image": "images/ice-cream-butterscotch.jpg"
+    "image": ""
   },
   {
     "itemID": 304,
@@ -3253,15 +3456,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 40.0,
+    "item_description": "Delicious Ice Cream (Banana) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["dessert", "ice-cream", "banana"],
-    "image": "images/ice-cream-banana.jpg"
+    "image": ""
   },
   {
     "itemID": 305,
@@ -3269,15 +3473,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Chocolate) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "chocolate"],
-    "image": "images/milkshake-chocolate.jpg"
+    "image": ""
   },
   {
     "itemID": 306,
@@ -3285,15 +3490,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Vanilla) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "vanilla"],
-    "image": "images/milkshake-vanilla.jpg"
+    "image": ""
   },
   {
     "itemID": 307,
@@ -3301,15 +3507,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Strawberry) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "strawberry"],
-    "image": "images/milkshake-strawberry.jpg"
+    "image": ""
   },
   {
     "itemID": 308,
@@ -3317,15 +3524,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Banana) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "banana"],
-    "image": "images/milkshake-banana.jpg"
+    "image": ""
   },
   {
     "itemID": 309,
@@ -3333,15 +3541,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Oreo) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "oreo"],
-    "image": "images/milkshake-oreo.jpg"
+    "image": ""
   },
   {
     "itemID": 310,
@@ -3349,15 +3558,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Coffee) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "coffee"],
-    "image": "images/milkshake-coffee.jpg"
+    "image": ""
   },
   {
     "itemID": 311,
@@ -3365,15 +3575,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Mango) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "mango"],
-    "image": "images/milkshake-mango.jpg"
+    "image": ""
   },
   {
     "itemID": 312,
@@ -3381,15 +3592,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Peanut Butter) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "peanut-butter"],
-    "image": "images/milkshake-peanut-butter.jpg"
+    "image": ""
   },
   {
     "itemID": 313,
@@ -3397,15 +3609,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Caramel) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "caramel"],
-    "image": "images/milkshake-caramel.jpg"
+    "image": ""
   },
   {
     "itemID": 314,
@@ -3413,15 +3626,16 @@
     "category": {
       "id": "snacks,soupsanddesserts",
       "name": "Snacks, Soups & Desserts",
-      "description": "Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "snacks-soups-desserts.webp"
     },
     "subcategory": "Desserts",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
-    "price": 80.0,
+    "item_description": "Delicious Milkshake (Cookies and Cream) prepared with authentic flavors.",
+    "price": "",
     "dietaryInfo": "Veg",
     "tags": ["drink", "milkshake", "cookies-and-cream"],
-    "image": "images/milkshake-cookies-and-cream.jpg"
+    "image": ""
   },
   {
     "itemID": 315,
@@ -3429,15 +3643,16 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Blue Lagoon prepared with authentic flavors.",
     "price": 100.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "blue-lagoon"],
-    "image": "images/blue-lagoon.jpg"
+    "image": ""
   },
   {
     "itemID": 316,
@@ -3445,15 +3660,16 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Lemon High n Soda prepared with authentic flavors.",
     "price": 60.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "lemon"],
-    "image": "images/lemon-high-n-soda.jpg"
+    "image": ""
   },
   {
     "itemID": 317,
@@ -3461,15 +3677,16 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "yes",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Special Coffee prepared with authentic flavors.",
     "price": 50.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "coffee", "special"],
-    "image": "images/special-coffee.jpg"
+    "image": ""
   },
   {
     "itemID": 318,
@@ -3477,15 +3694,16 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Cold Coffee prepared with authentic flavors.",
     "price": 30.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "coffee", "cold"],
-    "image": "images/cold-coffee.jpg"
+    "image": ""
   },
   {
     "itemID": 319,
@@ -3493,15 +3711,16 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Black Coffee prepared with authentic flavors.",
     "price": 30.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "coffee", "black"],
-    "image": "images/black-coffee.jpg"
+    "image": ""
   },
   {
     "itemID": 320,
@@ -3509,15 +3728,16 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Milk Tea prepared with authentic flavors.",
     "price": 20.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "tea", "milk"],
-    "image": "images/milk-tea.jpg"
+    "image": ""
   },
   {
     "itemID": 321,
@@ -3525,14 +3745,15 @@
     "category": {
       "id": "drinks(beverages)",
       "name": "Drinks (Beverages)",
-      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish."
+      "description": "Light Bites & Sweet Endings! Perfect for starters, quick snacks, or a sweet finish.",
+      "image": "drinks-beverages.webp"
     },
     "subcategory": "Drinks",
     "special": "no",
-    "item_description": "Delicious preparation with authentic flavors.",
+    "item_description": "Delicious Lemon Tea prepared with authentic flavors.",
     "price": 15.0,
     "dietaryInfo": "Veg",
     "tags": ["drink", "beverage", "tea", "lemon"],
-    "image": "images/lemon-tea.jpg"
+    "image": ""
   }
 ]

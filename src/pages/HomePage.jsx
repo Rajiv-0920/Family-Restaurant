@@ -40,7 +40,7 @@ const HomePage = () => {
                 <CategoryCard
                   key={`${category}-${index}`}
                   category={category}
-                  description={categorizedItems[category].description}
+                  {...categorizedItems[category]}
                 />
               );
             })}
@@ -63,9 +63,9 @@ const HomePage = () => {
               .filter((item) => {
                 return item.special === "yes";
               })
-              .map((item) => (
-                <Card key={item.itemID} {...item} />
-              ))}
+              .map((item) => {
+                return <Card key={item.itemID} {...item} />;
+              })}
           </div>
         </div>
         <div className="my-15 lg:my-30 flex flex-col gap-8 lg:gap-15">
