@@ -1,7 +1,7 @@
 [
   {
     "id": "image1",
-    "src": "g2.webp",
+    "src": "g3.webp",
     "alt": "Outdoor seating area of a restaurant with paved ground, tables, chairs, and a red car parked nearby. Trees and buildings are visible in the background under a bright sky.",
     "title": "Outdoor Dining Area"
   },
@@ -18,9 +18,9 @@
     "title": "Cozy Indoor Dining"
   },
   {
-    "id": "image4",
-    "src": "g4.webp",
+    "id": "image3",
+    "src": "g2.webp",
     "alt": "Exterior view of the restaurant's parking area with motorcycles parked. In the background, there are multi-story buildings, trees, and utility poles under a clear sky.",
-    "title": "Restaurant Exterior and Parking"
+    "title": "Restaurant Exterior"
   }
 ]

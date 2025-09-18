@@ -39,7 +39,7 @@ const Card = ({
         <div className="w-fit h-4">
           <img
             src={dietaryInfo === "Veg" ? vegImg : nonVegImg}
-            alt="Non-Vegetarian Image"
+            alt={name + " " + item_description}
             className="h-full w-auto"
           />
         </div>
