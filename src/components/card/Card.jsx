@@ -47,7 +47,11 @@ const Card = ({
 
       <div className="card-content flex gap-2 flex-col">
         <h3 className="">{name}</h3>
-        <p className="description text-sm">{item_description}</p>
+        <p className="description text-sm">
+          {item_description.split(" ").length > 10
+            ? item_description.split(" ").slice(0, 10).join(" ") + "..."
+            : item_description}
+        </p>
       </div>
 
       <div className="category-price flex justify-between items-center mt-auto">

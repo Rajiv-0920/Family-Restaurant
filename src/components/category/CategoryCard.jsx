@@ -5,7 +5,8 @@ import { Link } from "react-router-dom";
 const CategoryCard = ({ category, description, image }) => {
   const url = "/images/";
   // "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
-  const fullUrl = url + "img.jpeg";
+  const fullUrl = url + image;
+  console.log(fullUrl);
   return (
     <div
       style={{ backgroundImage: `url(${fullUrl})` }}
@@ -17,7 +18,7 @@ const CategoryCard = ({ category, description, image }) => {
           <h2 className="text-xl sm:text-2xl lg:text-4xl text-white">
             {category}
           </h2>
-          <p className="text-sm">{description}</p>
+          <p className="text-sm md:text-md xl:text-lg">{description}</p>
         </div>
         {/* <a href="#" className="visit-btn flex items-center gap-2">
           Visit Items <FaExternalLinkAlt className="external-link" />

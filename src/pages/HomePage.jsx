@@ -1,5 +1,6 @@
 import Card from "../components/card/Card";
 import data from "@/data/data.json";
+import galleryData from "@/data/gallery.json";
 import HeroSection from "../components/hero/HeroSection";
 import CategoryCard from "../components/category/CategoryCard";
 import GalleryCard from "../components/gallery/GalleryCard";
@@ -11,11 +12,6 @@ const categorizedItems = groupByCategory(data);
 
 const HomePage = () => {
   /* Card */
-  const imgName = "biryani.png";
-  const url =
-    "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
-  const url1 =
-    "https://assets.lummi.ai/assets/Qmbu73Q2DSQRMAec5oFDfZbJLLA4gyPpwZYYemR9cVBEkb?auto=format&w=1500";
   return (
     <>
       <div className="container mx-auto p-3">
@@ -33,7 +29,6 @@ const HomePage = () => {
               View Menu
             </Link>
           </div>
-          {/* <div className="categories grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 justify-items-center"> */}
           <div className="categories grid grid-cols-2 md:grid-cols-3 gap-2 sm:gap-6 justify-items-center">
             {Object.keys(categorizedItems).map((category, index) => {
               return (
@@ -73,14 +68,9 @@ const HomePage = () => {
             Gallery
           </h2>
           <div className="cards grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-6 justify-items-center">
-            <GalleryCard url={url + imgName} />
-            <GalleryCard url={url1} />
-            <GalleryCard url={url} />
-            <GalleryCard
-              url={
-                "https://drive.google.com/uc?export=view&id=1TPAWFNZK5JRx3KbxpyrCDpIzpBMMmvSZ"
-              }
-            />
+            {galleryData.map((item) => {
+              return <GalleryCard {...item} />;
+            })}
           </div>
         </div>
         <div className="my-15 lg:my-30 flex flex-col gap-5">
