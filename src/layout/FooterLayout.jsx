@@ -91,7 +91,7 @@ const FooterLayout = () => {
               </a>
             </li>
           </ul>
-          <div className="map-container mt-2 sm:mt-4 mb-5">
+          {/* <div className="map-container mt-2 sm:mt-4 mb-5">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d154637.96674655986!2d86.72190639726558!3d23.716501800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6e1b0bd3787d5%3A0xc07e5468c71461d8!2sKhai-Khai%20Family%20restaurant!5e1!3m2!1sen!2sin!4v1758115982694!5m2!1sen!2sin"
               style={{ border: "2px solid #ff7d2940", borderRadius: "10px" }}
@@ -100,7 +100,7 @@ const FooterLayout = () => {
               referrerPolicy="no-referrer-when-downgrade"
               className="w-full h-48 sm:h-64 md:h-80"
             ></iframe>
-          </div>
+          </div> */}
         </div>
 
         {/* Follow Us */}

@@ -7,7 +7,7 @@ export function RootLayout() {
   return (
     <div className="relative">
       <ScrollRestoration />
-      <GoToTop />
+      {/* <GoToTop /> */}
       <div id="home"></div>
       <NavLayout />
       <Outlet />
