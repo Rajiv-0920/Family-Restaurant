@@ -4,11 +4,11 @@ import { Link } from "react-router-dom";
 
 const CategoryCard = ({ category, description, image }) => {
   const url = "/images/";
-  // "https://cdn.jsdelivr.net/gh/Rajiv-0920/Family-Restaurant@main/src/assets/";
   const fullUrl = url + image;
-  console.log(fullUrl);
+
   return (
-    <div
+    <Link
+      to={`/menu?category=${encodeURIComponent(category)}`}
       style={{ backgroundImage: `url(${fullUrl})` }}
       className={`category-card bg-cover bg-center relative`}
     >
@@ -20,11 +20,14 @@ const CategoryCard = ({ category, description, image }) => {
           </h2>
           <p className="text-sm md:text-md xl:text-lg">{description}</p>
         </div>
-        {/* <a href="#" className="visit-btn flex items-center gap-2">
+        {/* <Link
+          to={`/menu?category=${encodeURIComponent(category)}`}
+          className="visit-btn flex items-center gap-2"
+        >
           Visit Items <FaExternalLinkAlt className="external-link" />
-        </a> */}
+        </Link> */}
       </div>
-    </div>
+    </Link>
   );
 };
 

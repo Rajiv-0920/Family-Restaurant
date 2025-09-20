@@ -35,25 +35,25 @@ const FooterLayout = () => {
           </h3>
           <ul className="text-sm sm:text-base space-y-1">
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Sunday: 10:50 am-11:50 pm
+              <FaRegClock /> Sunday: 11:00 am-11:00 pm
             </li>
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Monday: 10:50 am-11:50 pm
+              <FaRegClock /> Monday: 11:00 am-11:00 pm
             </li>
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Tuesday: 10:50 am-11:50 pm
+              <FaRegClock /> Tuesday: 11:00 am-11:00 pm
             </li>
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Wednesday: 10:50 am-11:50 pm
+              <FaRegClock /> Wednesday: 11:00 am-11:00 pm
             </li>
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Thursday: 10:50 am-11:50 pm
+              <FaRegClock /> Thursday: 11:00 am-11:00 pm
             </li>
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Friday: 10:50 am-11:50 pm
+              <FaRegClock /> Friday: 11:00 am-11:00 pm
             </li>
             <li className="flex gap-2 items-center">
-              <FaRegClock /> Saturday: 10:50 am-11:50 pm
+              <FaRegClock /> Saturday: 11:00 am-11:00 pm
             </li>
           </ul>
         </div>
@@ -84,7 +84,7 @@ const FooterLayout = () => {
               <FaLocationArrow />
               Location:{" "}
               <a
-                href="https://maps.app.goo.gl/7YiR1cmMXXeTGqW57"
+                href="https://maps.app.goo.gl/uaeeAu2NHkvguLS69?g_st=aw"
                 className="capitalize"
               >
                 neamatpur, IISCO bypass road, dist. paschim bardhaman

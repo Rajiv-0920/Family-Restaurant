@@ -86,7 +86,6 @@ const HomePage = () => {
           </p>
           <ContactForm />
         </div>
-        {/* <h3 className="heading-3 text-[2rem] font-bold">Chicken</h3> */}
       </div>
     </>
   );

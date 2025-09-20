@@ -3,30 +3,47 @@ import data from "@/data/data.json";
 import { groupByCategory } from "../../library/utils";
 import "./MenuPage.css";
 import Card from "../../components/card/Card";
+import { useLocation, useNavigate } from "react-router-dom";
 
 // Debug: Log categorized items to verify data
 const categorizedItems = groupByCategory(data);
 
 const MenuPage = () => {
+  const location = useLocation();
+  const navigate = useNavigate();
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [lastSelectedCategory, setLastSelectedCategory] = useState("All");
   const [dietaryPreference, setDietaryPreference] = useState("");
   const [searchQuery, setSearchQuery] = useState("");
   const [sortOrder, setSortOrder] = useState("");
 
+  // Extract category from URL query parameter on mount
+  useEffect(() => {
+    const queryParams = new URLSearchParams(location.search);
+    const categoryFromUrl = queryParams.get("category");
+    if (categoryFromUrl && categorizedItems[categoryFromUrl]) {
+      setSelectedCategory(categoryFromUrl);
+      setLastSelectedCategory(categoryFromUrl);
+    }
+  }, [location.search]);
+
   // Simplified useEffect to handle search-driven category changes
   useEffect(() => {
     if (searchQuery && selectedCategory !== "All") {
       setLastSelectedCategory(selectedCategory);
       setSelectedCategory("All");
+      // Update URL to remove category when searching
+      navigate("/menu");
     } else if (
       !searchQuery &&
       selectedCategory === "All" &&
       lastSelectedCategory !== "All"
     ) {
       setSelectedCategory(lastSelectedCategory);
+      // Restore category in URL
+      navigate(`/menu?category=${encodeURIComponent(lastSelectedCategory)}`);
     }
-  }, [searchQuery, lastSelectedCategory]);
+  }, [searchQuery, lastSelectedCategory, navigate]);
 
   const filteredAndSortedItems = data
     .filter((item) => {
@@ -72,17 +89,22 @@ const MenuPage = () => {
   const handleCategoryClick = (category) => {
     setSelectedCategory(category);
     setSearchQuery(""); // Clear search query on category selection
+    // Update URL with selected category
+    navigate(`/menu?category=${encodeURIComponent(category)}`);
     // Clear dietary preference for categories where it doesn't apply (e.g., Drinks)
     if (category === "Drinks" && dietaryPreference !== "") {
       setDietaryPreference("");
     }
   };
+
   const handleDietaryChange = (e) => {
     setDietaryPreference(e.target.id);
   };
+
   const handleSearchChange = (e) => {
     setSearchQuery(e.target.value);
   };
+
   const handleSortChange = (e) => {
     setSortOrder(e.target.value);
   };
@@ -101,6 +123,7 @@ const MenuPage = () => {
     setDietaryPreference("");
     setSearchQuery("");
     setSortOrder("");
+    navigate("/menu"); // Reset URL to remove query parameters
   };
 
   return (
